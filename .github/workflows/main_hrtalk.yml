@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'hrtalk'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5050d36722a543e9ac13f39e2d695f37 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_62ddb6bfe48a4d64a6e5a11a9e9932d9 }}
         package: .
